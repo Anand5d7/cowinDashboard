@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.vaccination-age-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #1c1c2b;
+  padding-right: 300px;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+.age-heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+}
